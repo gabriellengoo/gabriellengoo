@@ -4,16 +4,6 @@
  
 ##  <p align=center> 🔗 ✨ ◕ ◡ ◕ っ The internetarchitect® ◕ ◡ ◕ っ✨ 🔗 </p>
 
-<p align=center>
-<div align=center>
-<!-- <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=legendlancer&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=legendlancer&theme=onedark" /> -->
-<br>
-<br>
-<br>
-</div>
-</p>
-
 <br><br><br>
 
 
