@@ -1,4 +1,4 @@
-# typing... <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: center;" width="40px">
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: center;" width="100vw">
 
 
  
