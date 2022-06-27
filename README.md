@@ -1,6 +1,6 @@
-# typing... <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="40px">
+# typing... <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: center;" width="40px">
 
----
+
  
 ##  <p align=center> 🔗 ✨ ◕ ◡ ◕ っ The internetarchitect® ◕ ◡ ◕ っ✨ 🔗 </p>
 
