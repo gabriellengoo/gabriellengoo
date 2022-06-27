@@ -1,6 +1,8 @@
 
 ##  <p align=center> 🔗 ✨ ◕ ◡ ◕ っ The internetarchitect® ◕ ◡ ◕ っ✨ 🔗 </p>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: center;" width="100vw">
+
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: center; align=center" width="100vw">
 
 
  
