@@ -1,8 +1,8 @@
-# Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="40px">
+# typing... <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="40px">
 
 ---
  
-##  🔗 ✨ ◕ ◡ ◕ っ Hello ◕ ◡ ◕ っ✨ 🔗
+##  <p align=center> 🔗 ✨ ◕ ◡ ◕ っ The internetarchitect® ◕ ◡ ◕ っ✨ 🔗 </p>
 
 <p align=center>
 <div align=center>
