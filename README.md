@@ -23,16 +23,16 @@
 
 ### ✨ Technical Stack
 
-- 🔗 JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🔗 React 𒑰 Next.js 𒑰 Tailwind CSS 𒑰 styled-components 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
-- 🔗 NodeJS 𒑰 Express 𒑰 Laravel 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
+- 🔗 JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
+- 🔗 React 𒑰 Next.js 𒑰 Tailwind CSS 𒑰 styled-components 𒑰 Material UI 𒑰 Chakra UI 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
+- 🔗 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰
 - 🔗 Chrome extension with React & Redux
-- 🔗 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
-- 🔗 Github 𒑰 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
+- 🔗 AWS 𒑰 Git 𒑰 Slack 
+- 🔗 Github 
 
 ### Current Projects
-- 🔗 React 𒑰 Next.js 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Three.js
-- 🔗 Node 𒑰 Django 𒑰 Serverless 𒑰 Laravel 𒑰 MySQL 𒑰 MongoDB 𒑰 PostgreSQL
+- 🔗 React 𒑰 Next.js 𒑰 Material UI 𒑰 Three.js
+- 🔗 Node 
 
 ### ... Soon
 - 🔗 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
